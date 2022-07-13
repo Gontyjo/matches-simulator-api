@@ -4,7 +4,7 @@
     
     "local": {
       "nome": "Maracanã",
-      "imagem": "TODO"
+      "imagem": "https://imagens.ebc.com.br/rZHrxWqcwigtQtpZggOe04mhqjg=/1170x700/smart/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/maracana_publico.jpg?itok=Qjg4hOAg"
     },
     "mandante":{
       "nome": "Brasil",
@@ -22,7 +22,7 @@
     
     "local": {
       "nome": "Estádio Centenário",
-      "imagem": "TODO"
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Estadio_Centenario_%28vista_a%C3%A9rea%29.jpg/800px-Estadio_Centenario_%28vista_a%C3%A9rea%29.jpg"
     },
     "mandante":{
       "nome": "Uruguay",
@@ -40,7 +40,7 @@
     
     "local": {
       "nome": "Maracanã",
-      "imagem": "TODO"
+      "imagem": "https://imagens.ebc.com.br/rZHrxWqcwigtQtpZggOe04mhqjg=/1170x700/smart/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/maracana_publico.jpg?itok=Qjg4hOAg"
     },
     "mandante":{
       "nome": "Brasil",
